@@ -1,0 +1,2 @@
+This is the payment page.
+This is added through the copybrnach
